@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hackergil/angular-tour-of-heroes.svg?branch=develop)](https://travis-ci.org/hackergil/angular-tour-of-heroes)
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
