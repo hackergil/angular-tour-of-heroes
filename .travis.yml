@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - 8.9.0
+
+branches:
+  - / .* /
+
+before_script:
+  - npm install -g @angular-cli
+
+script:
+  - ng build --prod
+
+notifications:
+  email:
+    on_failure: change
+    on_success: change
